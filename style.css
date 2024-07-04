@@ -75,19 +75,23 @@ body {
     padding: 50px 0;
 }
 
-.estudante-todos{
-    display: grid;
+.estudante-redes{
+    display: inline-block;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
 .rodape{
     background-color: black;
     text-align: center;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    
+
+    
 }
 
 .rodape-imagem{
     height: 60px;
     padding: 12px 0;
-    text-align: center;
-        margin: 5em 3em;
+   
 }
+
